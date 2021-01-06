@@ -11,18 +11,11 @@
  -->
 
 
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Stargazers][stars-shield]][stars-url]
-[![MIT License][license-shield]][license-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://i1.wp.com/nerdschalk.com/wp-content/uploads/2020/05/nerdschalk.com-poll-in-zoom.png" alt="Logo" width="400" height="300">
+    <img src="https://i1.wp.com/nerdschalk.com/wp-content/uploads/2020/05/nerdschalk.com-poll-in-zoom.png" alt="Logo" width="300">
   </a>
 
   <h2 align="center">Zoom Pool Data MAtch</h2>
@@ -117,3 +110,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * Serkan Helvacıoğlu
 * Sinem Onay
 * Zülküf Orhun Özkaya
+
+<!-- ACKNOWLEDGEMENTS -->	
+## Acknowledgements	
+
+
+
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt	
+[product-screenshot]: iteration1/assets/image.png
